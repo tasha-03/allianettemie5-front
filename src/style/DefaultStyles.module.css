@@ -1,0 +1,72 @@
+.fontfamilyrr{
+    font-family: Roboto;
+}
+
+.bgcolordbrown{
+    background-color: #2C2C2B;
+}
+.bgcolorolive{
+    background-color: #A49D8A;
+}
+.bgcolorgrey{
+    background-color: #8B949A;
+}
+.bgcolorwhite{
+    background-color: #fff;
+}
+.bgcolorllgrey{
+    background-color: #F7F7F7;
+}
+.bgcolorlgrey{
+    background-color: #CBCBCB;
+}
+.bgcolorblue{
+    background-color: #21759B;
+}
+.bgcolorlblue{
+    background-color: #4D91AF;
+}
+.txtcolorblack{
+    color: #000;
+}
+.txtcolorwhite{
+    color: #FFF;
+}
+.txtcolordblue{
+    color: #1A5E7C;
+}
+.txtcolorblue{
+    color: #21759B;
+}
+.txtcolorlblue{
+    color: #4D91AF;
+}
+.txtcolorllblue{
+    color: #7AACC3;
+}
+.txtcolorlgrey{
+    color: #CBCBCB;
+}
+.txtcolorgrey{
+    color: #8B949A;
+}
+.txtcolordbrown{
+    color: #2C2C2B;
+}
+.nomargin{
+    margin: 0!important;
+}
+.nopadding{
+    padding: 0!important;
+}
+.dinline{
+    display: flex;
+    justify-content: center;
+}
+.dinline *{
+    display: inline;
+}
+.insdinline{
+    display: inline-flex!important;
+    justify-content: center!important;
+}

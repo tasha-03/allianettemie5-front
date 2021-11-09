@@ -1,0 +1,18 @@
+.login{
+    display: inline-flex;
+    width: 200px;
+    padding: 0 15px;
+    justify-content: center;
+}
+.loginbtn{
+    width: 100%;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #21759B;
+}
+.loginbtn:hover{
+    cursor: pointer!important;
+    background-color: #4D91AF;
+    text-shadow: none!important;
+}

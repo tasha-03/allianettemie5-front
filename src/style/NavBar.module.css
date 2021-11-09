@@ -1,0 +1,28 @@
+.nav{
+    height: 55px;
+    padding: 15px 0;
+    font-size: large;
+}
+.nav ul{
+    width: 60%;
+    font-weight: bold;
+}
+.navfiller{
+    width: 230px;
+}
+
+.nav ul a:hover{
+    color: #4D91AF;
+}
+.nav a{
+    margin: 0 25px;
+    padding: 15px 0;
+    vertical-align: middle;
+    cursor: default;
+    text-decoration: none;
+    color: #fff;
+}
+.nav a:hover{
+    cursor: default;
+    text-shadow: -1px 0 #000, 0 -1px #000;
+}
